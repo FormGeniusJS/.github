@@ -1,4 +1,4 @@
-# FormulateJS
+# Formu8JS
 
 FormulateJS is an open-source JavaScript library for building and validating forms. It includes two sub-libraries: ValidityJS for form validation and MaskifyJS for input masking.
 
