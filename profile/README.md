@@ -4,8 +4,6 @@ Formu8JS is an open-source GitHub organization that provides a collection of Jav
 
 ## Libraries
 
-The Formu8JS organization currently includes the following libraries:
-
 ### LivevalidateJS
 
 LivevalidateJS is a JavaScript library for real-time form validation. It includes validation rules for required fields, minimum and maximum length, pattern matching, and custom validation functions. LivevalidateJS also includes functions for displaying error messages and success messages in real-time, as the user types in their input.
